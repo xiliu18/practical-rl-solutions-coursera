@@ -1,4 +1,5 @@
-# RL assignment solutions
-A repository of my solutions to programming assignments of several RL courses, including:
+# Practical RL Solutions Coursera
+A repository of my solutions to:
 - [Practical Reinforcement Learning (Coursera)](https://www.coursera.org/learn/practical-rl)
-- [Deep Reinforcement Learning (CS 294-112 at UC Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
+All the solutions has been tested to pass the grader.
